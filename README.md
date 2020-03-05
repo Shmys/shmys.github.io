@@ -1,4 +1,4 @@
-# 零
+# 零散笔记
 
 > 作者：枫觅
 
@@ -6,6 +6,6 @@
 
 ---
 
-## 页脚信息
+### 页脚信息
 
-[零](/) | 使用 <a href="https://github.com/docsifyjs/docsify" target="_blank">docsify</a> 构建
+[零散笔记](/) | 使用 <a href="https://github.com/docsifyjs/docsify" target="_blank">docsify</a> 构建
