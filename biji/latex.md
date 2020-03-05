@@ -8,7 +8,7 @@
 - Sumatra PDF
 - VS Code
   - LaTeX Workshop
-    - 使用 xelatex 编译
+  - 使用 xelatex 编译
 
 ## 获取字体名称
 
