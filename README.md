@@ -6,6 +6,4 @@
 
 ---
 
-### 页脚信息
-
-[零散笔记](/) | 使用 <a href="https://github.com/docsifyjs/docsify" target="_blank">docsify</a> 构建
+> 使用 <a href="https://github.com/docsifyjs/docsify" target="_blank">docsify</a> 构建
